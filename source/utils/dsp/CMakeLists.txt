@@ -6,7 +6,7 @@ target_include_directories(utils_dsp PUBLIC ${CMAKE_CURRENT_LIST_DIR})
 
 add_subdirectory(common)
 add_subdirectory(filter)
-add_subdirectory(qformat)
+add_subdirectory(QFormat)
 target_include_directories(utils_dsp INTERFACE ${CMAKE_CURRENT_LIST_DIR}/qformat/include)
 
 add_subdirectory(simd)
