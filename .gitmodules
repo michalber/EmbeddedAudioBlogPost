@@ -2,3 +2,12 @@
 	path = vendor/espressif/esp-idf
 	url = https://github.com/espressif/esp-idf/
 	branch = release/v5.3
+[submodule "source/utils/dsp/qformat"]
+	path = source/utils/dsp/qformat
+	url = https://github.com/michalber/QFormat/
+[submodule "cmake/stm32-cmake"]
+	path = cmake/stm32-cmake
+	url = https://github.com/ObKo/stm32-cmake
+[submodule "source/utils/dsp/esp32/esp-dsp"]
+	path = vendor/espressif/esp-dsp
+	url = https://github.com/espressif/esp-dsp

@@ -1,0 +1,6 @@
+add_subdirectory(core_utils)
+add_subdirectory(osal)
+add_subdirectory(peripherals)
+add_subdirectory(utils)
+add_subdirectory(platform)
+add_subdirectory(app)

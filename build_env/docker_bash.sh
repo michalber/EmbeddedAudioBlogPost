@@ -1,0 +1,1 @@
+docker exec -it app-build-env bash
